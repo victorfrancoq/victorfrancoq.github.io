@@ -24,10 +24,15 @@ Esta ingeniería trata con áreas muy diversas de la informática y de las cienc
 
 Una definición precisa aún no ha sido contemplada en los diccionarios, sin embargo se pueden citar las enunciadas por algunos de los más prestigiosos autores:
 
-Ingeniería de software es el estudio de los principios y metodologías para el desarrollo y mantenimiento de sistemas software (Zelkovitz, 1978)
-Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
-Ingeniería de software trata del establecimiento de los principios y métodos de la ingeniería a fin de obtener software de modo rentable, que sea fiable y trabaje en máquinas reales (Bauer, 1972).
-Es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento del software; es decir, la aplicación de la ingeniería al software (IEEE, 1993).
+#Ingeniería de software es el estudio de los principios y metodologías para el desarrollo y mantenimiento de sistemas software (Zelkovitz, 1978)
+
+#Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
+
+#Ingeniería de software trata del establecimiento de los principios y métodos de la ingeniería a fin de obtener software de modo rentable, que sea fiable y trabaje en máquinas reales (Bauer, 1972).
+
+#Es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento del software; es decir, la aplicación de la ingeniería al software (IEEE, 1993).
+
+
 En el 2004, en los Estados Unidos, la Oficina de Estadísticas del Trabajo (U. S. Bureau of Labor Statistics) contó 760.840 ingenieros de software de computadora.El término «ingeniero de software», sin embargo, se utiliza en forma genérica en el ambiente empresarial, y no todos los ingenieros de software poseen realmente títulos de ingeniería de universidades reconocidas.
 
 Algunos autores consideran que «desarrollo de software» es un término más apropiado que «ingeniería de software» para el proceso de crear software. Personas como Pete McBreen(autor de «Software Craftmanship») cree que el término IS implica niveles de rigor y prueba de procesos que no son apropiados para todo tipo de desarrollo de software.
