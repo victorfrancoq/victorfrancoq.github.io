@@ -3,8 +3,15 @@ layout: post
 title: biografía
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+BIOGRAFIA 	PERSONAL
+Victor Franco Q.
+
+
+
+Mi nombre es Victor German Franco Quimi, nací en Guayaquil- Ecuador, el 21 de septiembre de 2000. Desde la niñez viví en el Cantón Guayaquil perteneciente a la Provincia de guayas Estudié en la Escuela Aurora Vallejo Arrieta, luego en el Colegio “Veintiocho de mayo” graduándome en el colegio  en la Área de contabilidad así culmine mis estudios con la ayuda Incondicional de mis padres he logrado estar donde estoy estudiando en la Universidad de Guayaquil, ahora estoy cursando el primer ciclo en mí carrera , me esforzare demasiado para aprender lo que me enseñan los profesores aplicando todas las técnicas asimiladas para desempeñarme en mi vida propia, consiguiendo así ser una persona coherente logrando lo que deseo, Tengo que culminar la carrera graduarme de Ingeniero y seguir profesionalizándome, para estar entre los mejores para así tener mucha acogida para que nunca me falte el trabajo, Si Diosito me lo permite creare mi Propia empresa y así ayudare a muchas personas más.
+
+Me considero una persona inquieta y creativa, me causa ansiedad no saber ni entender cosas y trato de siempre llenar esos vacíos, me gusta imaginar, soñar he aprendido en este corto trayecto en la universidad, es que las verdades y formas de hacer las cosas, de interpretarlas y de concebirlas son muchas por lo el Estudio es lo más maravilloso que puede existir.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
