@@ -4,6 +4,7 @@ title: biografía
 ---
 
 BIOGRAFIA 	PERSONAL
+
 Victor Franco Q.
 
 
