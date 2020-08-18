@@ -38,6 +38,8 @@ otros ya no se volverían a ver, pero nos esperarían cosas nuevas en el colegio
 final los maestros nos desearon mucha suerte en nuestro próximo paso y nos despidieron
 amablemente.
 
+**En el colegio**
+
 Mi nueva escuela o colegio se llamaba "veintiocho de Mayo" era aún más grande que la 
 anterior, tenía; canchas de futbol,  basquetbol, muchos más salones y maestros. En el
 colegio las cosas eran muy diferentes a la escuela, ya que cada maestro tenía su 
@@ -53,6 +55,7 @@ también nuevas materias, así que para los exámenes finales tuve que estudiar 
 buenas calificaciones. Afortunadamente me fue bien y pude graduarme con mis compañeros, en la 
 especialdad de contabilidad para tiempo después entrar a la universidad.
 
+**ahora**
 
 Ahora me encuentro en la Universidad de Guayaquil estudiando la carrera de Ingenieria en Software 
 aqui si ya me toco solo sin ningun compañero del colegio ya que escogieron otras carreras o otras
