@@ -68,5 +68,5 @@ vuniversidades pero igual seguiamos comunicados. en estos momentos voy por el pr
 materia ya que en las demas voy por el segundo nivel y si si me quede en esta y otra materia mas.
 pero espero este semestre pasarlo para asi poder avanzando en mis estudios.
 
-gracias...
+gracias....
 
