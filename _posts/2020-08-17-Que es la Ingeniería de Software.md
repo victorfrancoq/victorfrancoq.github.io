@@ -42,6 +42,8 @@ En el 2004, en los Estados Unidos, la Oficina de Estadísticas del Trabajo (U. S
 
 Algunos autores consideran que «desarrollo de software» es un término más apropiado que «ingeniería de software» para el proceso de crear software. Personas como Pete McBreen(autor de «Software Craftmanship») cree que el término IS implica niveles de rigor y prueba de procesos que no son apropiados para todo tipo de desarrollo de software.
 
+![foto 5](https://user-images.githubusercontent.com/69336097/90590223-9a221600-e1a5-11ea-97d6-fb5e2fda0e3f.jpg)
+
 Indistintamente se utilizan los términos «ingeniería de software» o «ingeniería del software». En Hispanoamérica el término usado normalmente es el primero de ellos.
 
 La creación del software es un proceso intrínsecamente creativo y la ingeniería del software trata de sistematizar este proceso con el fin de acotar el riesgo del fracaso en la consecución del objetivo creativo por medio de diversas técnicas que se han demostrado adecuadas en base a la experiencia previa.
