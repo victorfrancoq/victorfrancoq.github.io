@@ -13,6 +13,7 @@ Cuando hablamos de red social, lo que viene a la mente en primer lugar son sitio
 En Internet, las redes sociales han suscitado discusiones como la de falta de privacidad, pero también han servido como medio de convocatoria para manifestaciones públicas en protestas. Estas plataformas crearon, también, una nueva forma de relación entre empresas y clientes, abriendo caminos tanto para la interacción, como para el anuncio de productos o servicios.
 
 **CUANDO SURGIERON**
+
 Fue en la década de 1990, con internet disponible, que la idea de red social emigró también al mundo virtual. El sitio SixDegrees.com, creado en 1997, es considerado por muchos como la primera red social moderna, ya que permitía a los usuarios tener un perfil y agregar a otros participantes en un formato parecido a lo que conocemos hoy. El sitio pionero, que en su auge llegó a tener 3,5 millones de miembros, se cerró en 2001, pero ya no era el único.
 
 A principios del milenio, empezaron a surgir páginas dirigidas a la interacción entre usuarios: Friendster, MySpace, Orkut y hi5 son algunos ejemplos de sitios ilustres en el período. Muchas de las redes sociales más populares hoy en día también surgieron en esa época, como LinkedIn y Facebook.
