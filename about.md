@@ -8,6 +8,8 @@ permalink: /about/
 
 ### More Information
 
+ESTUDIANTE DE LA UNIVERSIDAD DE GUAYAQUIL 
+
 
 ### Contact me
 
