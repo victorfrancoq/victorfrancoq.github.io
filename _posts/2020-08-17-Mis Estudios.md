@@ -40,6 +40,8 @@ amablemente.
 
 **En el colegio**
 
+![foto 2](https://user-images.githubusercontent.com/69336097/90589528-ebc9a100-e1a3-11ea-8ad9-0aa9304fcf51.jpg)
+
 Mi nueva escuela o colegio se llamaba "veintiocho de Mayo" era aún más grande que la 
 anterior, tenía; canchas de futbol,  basquetbol, muchos más salones y maestros. En el
 colegio las cosas eran muy diferentes a la escuela, ya que cada maestro tenía su 
@@ -54,6 +56,9 @@ En el colegio, me enseñaron muchas cosas,con un poco de mayor grado de dificult
 también nuevas materias, así que para los exámenes finales tuve que estudiar mucho para obtener
 buenas calificaciones. Afortunadamente me fue bien y pude graduarme con mis compañeros, en la 
 especialdad de contabilidad para tiempo después entrar a la universidad.
+
+
+![foto3](https://user-images.githubusercontent.com/69336097/90589574-069c1580-e1a4-11ea-8eb2-a287399678de.jpg)
 
 **ahora**
 
