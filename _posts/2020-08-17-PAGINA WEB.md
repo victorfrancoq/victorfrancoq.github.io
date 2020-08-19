@@ -3,7 +3,7 @@ layout: post
 title: PAGINA WEB
 ---
 
-¿QUE ES UNA PAGINA WEB?
+**¿QUE ES UNA PAGINA WEB?**
 
 ![foto6](https://user-images.githubusercontent.com/69336097/90591780-90021680-e1a9-11ea-894f-31fd3f01959d.jpg)
 
