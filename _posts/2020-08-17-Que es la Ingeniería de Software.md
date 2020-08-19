@@ -6,6 +6,10 @@ title: ¿Que es la Ingenieria de Software?
 **Mi primer articulo**
 
 
+
+![foto 4](https://user-images.githubusercontent.com/69336097/90589922-e28d0400-e1a4-11ea-83d5-77904075c30d.jpg)
+
+
 La Ingeniería de Software es la rama de la ingeniería que estudia todo lo relacionado con
 la informática o  sistemas de computación, con una orientación metódica, ordenada y
 cuantificable al incremento, ejecución y conservación del software.
