@@ -64,7 +64,7 @@ especialdad de contabilidad para tiempo después entrar a la universidad.
 
 Ahora me encuentro en la Universidad de Guayaquil estudiando la carrera de Ingenieria en Software 
 aqui si ya me toco solo sin ningun compañero del colegio ya que escogieron otras carreras o otras
-vuniversidades pero igual seguiamos comunicados. en estos momentos voy por el primer nivel en esta
+universidades pero igual seguiamos comunicados. en estos momentos voy por el primer nivel en esta
 materia ya que en las demas voy por el segundo nivel y si si me quede en esta y otra materia mas.
 pero espero este semestre pasarlo para asi poder avanzando en mis estudios.
 
