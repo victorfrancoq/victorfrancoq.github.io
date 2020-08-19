@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿QUE SON LAS REDES SOCIALES?
+title: REDES SOCIALES
 ---
-
+**¿QUE SON LAS REDES SOCIALES?**
 
