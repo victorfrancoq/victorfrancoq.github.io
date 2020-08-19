@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ¿Que es la Ingenieria de Software?
+title: INGENIERIA DE SOFTWARE
 ---
 
-**INGENIERIA DE SOFTWARE**
+**¿Que es la Ingenieria de Software?**
 
 
 
